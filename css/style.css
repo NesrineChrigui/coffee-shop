@@ -159,6 +159,7 @@ section {
     font-size: 6.5rem;
     color: var(--main-color);
     text-transform: uppercase;
+
 }
 
 .home .image-slider {
@@ -250,6 +251,7 @@ section {
     padding-top: 1rem;
     color: var(--main-color);
 }
+
 
 /* MENU */
 
@@ -465,6 +467,18 @@ section {
 .footer .credit span {
     border-bottom: var(--border-hover);
 }
+
+
+
+
+
+
+
+
+
+
+
+
 /* MEDIA QUERIES */
 
 @media (max-width: 991px) {
