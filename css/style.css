@@ -454,7 +454,6 @@ section {
 .footer .box-container .box a:hover i {
     padding-right: 2rem;
 }
-
 .footer .credit {
     text-align: center;
     font-size: 2rem;
@@ -466,33 +465,6 @@ section {
 .footer .credit span {
     border-bottom: var(--border-hover);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* MEDIA QUERIES */
 
 @media (max-width: 991px) {
